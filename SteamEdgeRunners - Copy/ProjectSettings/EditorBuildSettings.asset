@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/UnityTechnologies/ParticlePack/Scenes/Main.unity
+    guid: 163adec682b5ccd4c8dbb7766c20f3fb
+  - enabled: 0
+    path: Assets/Scenes/Steampunk World.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/destroyed_city.unity
+    guid: dab52a771d551ca40930496e8e13757a
   m_configObjects: {}
